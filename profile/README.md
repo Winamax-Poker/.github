@@ -32,7 +32,7 @@
 ![Winamax Lobby Screenshot](https://www.pokersites.com/news/wp-content/uploads/2019/10/winamax.jpg)  
 *Winamax desktop interface with poker and sports integration*
 
-![Winamax Poker Table](https://d3ltpfxjzvda6e.cloudfront.net/2015/07/23/winamax_poker_table.jpg)  
+![Winamax Poker Table](https://pokerindustrypro.com/site_media/media/uploads/news/winamax-multiple-playgrounds-tables-playing-wm.png)  
 *In-game poker table view at Winamax*
 
 ---
